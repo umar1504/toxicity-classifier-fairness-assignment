@@ -1,0 +1,20 @@
+# Dataset files (too large for GitHub)
+*.csv
+
+# Model files (too large for GitHub)
+*.pt
+*.bin
+*.safetensors
+saved_model/
+distilbert_toxicity_model_final/
+distilbert_model.zip
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab files
+*.zip
+.DS_Store
+*.log
