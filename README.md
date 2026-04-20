@@ -3,7 +3,7 @@
 ## Student Information
 - **Course**: Responsible & Explainable AI
 - **Assignment**: 2 - Toxicity Classification
-- **Student Name**: [Your Name]
+- **Student Name**: Umar Farooq
 - **Python Version**: 3.12
 - **GPU Used**: Tesla T4 (Google Colab)
 
